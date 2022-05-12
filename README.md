@@ -21,6 +21,10 @@ It also uses AWS Lex and Lambda functions
 
 ![Movie_2]()
 
+## recommendPortfolio Lambda & Lex Function Results 
+
+![image](https://github.com/Oleener/Challenge_15_RoboAdvisor/blob/main/Mod_15_image.png)
+
 ---
 
 ## Usage
